@@ -80,7 +80,6 @@ Explore the possibility of adapting the system to help animals in abandonment co
   </tr>
 </table>
 
-<br>
 
 <h3>Outputs</h3>
 
@@ -98,6 +97,11 @@ Explore the possibility of adapting the system to help animals in abandonment co
     <td>Display food level status</td>
   </tr>
 </table>
+
+<br>
+<p align="center">
+<img width='80%' alt="RTL Completo" src="https://github.com/user-attachments/assets/21a6508c-f11b-4a47-bc8e-6e184b02625e" />
+</p>
 
 <hr>
 
@@ -137,9 +141,13 @@ The repository includes separate directories for each subsystem implementation.
 
 <h2>⚠️ Main Challenge</h2>
 
-<p>
-The primary issue encountered during development was integrating both peripherals into a single FPGA design operating simultaneously.
+
+The primary issue encountered during development was integrating both peripherals into a single FPGA design operating simultaneously. For this reason, the necessary logic was initially implemented using an **`Arduino UNO`** to control each module.
+
+<p align="center">
+<img  width='80%' alt="Modelo Arduino Uno" src="https://github.com/user-attachments/assets/9ab5d097-2a2b-47c7-b046-674508f88de6" />
 </p>
+
 
 <p>
 Although:
@@ -169,17 +177,24 @@ Due to time and hardware limitations, the final prototype demonstration was perf
 
 <h2>🎥 Demonstration Videos</h2>
 
+<h3>Ultrasonic Sensor Pre-Test</h3>
+
+  https://github.com/user-attachments/assets/2e23e77d-a238-48f4-9a63-6a9eb754b5eb
+
 <h3>Final Dispenser Prototype</h3>
 
-<p>Add video or GIF here</p>
+https://github.com/user-attachments/assets/f39f4540-d022-471f-aebb-da2dafd2a54f
+
 
 <h3>Ultrasonic Sensor Test</h3>
 
-<p>Add video or GIF here</p>
+
+https://github.com/user-attachments/assets/a5cfc43f-eadb-4187-8a2f-73e273db44d5
+
 
 <h3>Servo Motor Failure Demonstration</h3>
 
-<p>Add video or GIF here</p>
+[![Alt text](https://img.youtube.com/vi/7R-gtyLnzKk/0.jpg)](https://www.youtube.com/watch?v=7R-gtyLnzKk)
 
 <hr>
 
