@@ -1,3 +1,0 @@
-set_io clk 60
-set_io servo 11 #Salida de señal que controla el servo
-
