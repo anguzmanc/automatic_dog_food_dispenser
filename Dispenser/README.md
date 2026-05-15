@@ -9,7 +9,7 @@ This peripheral of the device includes:
   An SG90 servomotor, which acts as the mechanical gate that allows food to pass through whenever it receives the activation signal from the counter.
 
 <p align="center">
-  <img width="1823" height="352" alt="RTL Compuerta" src="https://github.com/user-attachments/assets/93de9d93-4e55-4b0f-9e84-185e3e52751d" />
+  <img width="80%" alt="RTL Compuerta" src="https://github.com/user-attachments/assets/93de9d93-4e55-4b0f-9e84-185e3e52751d" />
 </p>
 
 ---
