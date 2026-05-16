@@ -218,13 +218,6 @@ Although full integration was not successfully completed, the project provided v
 
 <hr>
 
-<h2>👤👤👤 Team</h2>
-<ul>
-  <li>Andrés Eduardo Guzmán Cuberos</li>
-  <li>Julián Antonio Quintero Aldana</li>
-  <li>Juan José Galvis Torres</li>
-</ul>
-
 <h2>📖 References</h2>
 
 [1] Chacón, P. “Hay 3 millones de perros y gatos abandonados en Colombia: este es el plan que propone la senadora Andrea Padilla para cambiar esta realidad”, infobate. Accessed October 6, 2023. Available [online] : https://www.infobae.com/colombia/2023/01/31/hay-3-millones-de-perros-y-gatos-abandonados-en-colombia-este-es-el-plan-que-propone-la-senadora-andrea-padilla-para-cambiar-esta-realidad/ 
